@@ -52,3 +52,4 @@ php ./dev/tools/build-ee.php -- --command unlink
 ```
 
 ### Step 3: Install the Magento software from the `magento2ce` repository.
+commit test
